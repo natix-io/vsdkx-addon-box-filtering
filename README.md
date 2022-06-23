@@ -1,5 +1,7 @@
 # vsdkx-addon-box-filtering
 
+*No addon config required*
+
 Computes **Inter Quartile Range** on bounding box areas after model inference 
 and filters out boxes that fall in upper bound
 
